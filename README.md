@@ -2,7 +2,7 @@
 
 # Adventini 🤔
 
-## Our Goal
+## Goal
 
 A choose your own adventure game like Bandersnatch.
 
